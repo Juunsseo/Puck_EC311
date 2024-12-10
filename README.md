@@ -57,7 +57,7 @@ The EC311 Puck Project is a hardware-based implementation of a Pong-inspired gam
 
 ## Demo Video
 [![EC311 Final Demo Video- Puck](https://img.youtube.com/vi/TeToti020jk/0.jpg)](https://www.youtube.com/watch?v=TeToti020jk)
-Click the image above.
+- Click the image above.
 ---
 
 For more details, refer to the included presentation file (`EC311 Final Project Presentation.pptx`).
